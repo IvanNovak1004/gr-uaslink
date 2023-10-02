@@ -1,4 +1,5 @@
-title: The UASLINK OOT Module
+:q
+cd title: The UASLINK OOT Module
 brief: Short description of gr-uaslink
 tags: # Tags are arbitrary, but look at CGRAN what other authors are using
   - sdr
